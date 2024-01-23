@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Somuna.</h1>
 <h3 align="center">A passionate Full Stack Developer from Nigeria.&#128205;</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align="right" alt="Coding" width="400" src="https://www.cnet.com/a/img/resize/667049aaa29d420a7d74c70b1bc71520fa729902/hub/2021/10/21/1635a1a9-af9c-4380-b5a6-eec99f1a4c74/among-us-consoles-promo-xbox-playstation.png?auto=webp&fit=crop&height=675&width=1200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somunaexe&label=Profile%20views&color=0e75b6&style=flat" alt="somunaexe" /> </p>
 
