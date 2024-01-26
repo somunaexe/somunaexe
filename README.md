@@ -8,19 +8,18 @@
 
 - 🔭 I’m currently working on **an Online Ethical Clothing Store on Android Platforms**
 
-- 🌱 I’m currently learning **iOS Mobile Development (Swift), VR Gaming (Unity, C#)**
+- 🌱 I’m currently learning **iOS Mobile Development (Swift, XCode), VR Gaming (Unity, C#, JavaScript)**
 
 - 👯 I’m looking to collaborate on **Websites, Mobile Apps and Games**
 
 - 🤝 I’m urgently looking for **a software-based graduate job, preferably one in the gaming sector. Despite the preference, all offers are welcome.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/somunaexe](https://github.com/somunaexe)
-<!--portfolio link should be added above-->
+- 👨‍💻 All of my projects are available at **http://agg801.poseidon.salford.ac.uk/myPortfolio/portfolio/**
 - 💬 Ask me about **JavaScript, C#, Unity, Java, Kotlin, PHP**
 
 - 📫 How to reach me **somunanzenwa@gmail.com**
 
-- 📄 My CV/Resume [https://github.com/somunaexe/somunaexe/blob/main/Engineer%20CV.pdf](https://github.com/somunaexe/somunaexe/blob/main/Engineer%20CV.pdf)
+- 📄 My CV/Resume **https://github.com/somunaexe/somunaexe/blob/main/Engineer%20CV.pdf**
 
 - ⚡ Fun fact **I love 3D and VR Gaming a bit too much😅**
 
