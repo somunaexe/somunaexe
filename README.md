@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an Online Ethical Clothing Store on Android Platforms**
 
-- 🌱 I’m currently learning **iOS Mobile Development (Swift, XCode), VR Gaming (Unity, C#, JavaScript)**
+- 🌱 I’m currently learning **iOS Development (Swift, XCode), VR Gaming (Unity, Unreal Engine, C#, C++), React, MongoDB, Tailwind**
 
 - 👯 I’m looking to collaborate on **Websites, Mobile Apps and Games**
 
