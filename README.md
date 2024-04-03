@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somunaexe&label=Profile%20views&color=0e75b6&style=flat" alt="somunaexe" /> </p>
 
-- 🔭 I’m currently working on **an Online Ethical Clothing Store on Android Platforms**
+- 🔭 I’m currently working on **a Mobile Application for Shopping Ethically Sourced Clothes**
 
 - 🌱 I’m currently learning **iOS Development (Swift, XCode), VR Gaming (Unity, Unreal Engine, C#, C++), React, Tailwind**
 
