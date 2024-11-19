@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somunaexe&label=Profile%20views&color=0e75b6&style=flat" alt="somunaexe" /> </p>
 
-- 🤝 I’m urgently looking for a **software developer role**
+- 🤝 I’m looking for a **software developer role**
 - 👯 Invite me to collaborate on projects
 
 <h3 align="left">Connect with me:</h3>
