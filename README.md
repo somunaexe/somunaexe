@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/mapeditor.png?size=40" alt="tiled" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/5406849?s=48&v=4" alt="pixijs" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongodb" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="express.js" width="40" height="40"/>
