@@ -43,8 +43,7 @@
   <img src="https://avatars.githubusercontent.com/u/9141961?s=40&v=4" alt="asp.net" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/6154722?s=40&v=4" alt="sql-server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48
-" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://github.com/postmanlabs.png?size=40" alt="postman" width="40" height="40"/>
 <img src="https://github.com/clerk.png?size=40" alt="clerk" width="40" height="40"/>
