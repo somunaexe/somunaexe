@@ -50,8 +50,8 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://github.com/postmanlabs.png?size=40" alt="postman" width="40" height="40"/>
-<img src="https://github.com/clerk.png?size=40" alt="clerk" width="40" height="40"/>
-<img src="https://github.com/neondatabase.png?size=40" alt="neon" width="40" height="40"/>
+<!-- <img src="https://github.com/clerk.png?size=40" alt="clerk" width="40" height="40"/>
+<img src="https://github.com/neondatabase.png?size=40" alt="neon" width="40" height="40"/> -->
 
   
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
