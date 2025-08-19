@@ -9,7 +9,6 @@
 - 🤝 I’m looking for a **software developer role**
 - 👯 Invite me to collaborate on projects
 - 🐱‍🚀 Currently building a Git Clone
-- ☁ Currently learning AWS & Azure
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
