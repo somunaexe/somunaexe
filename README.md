@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:somunanzenwa@gmail.com" target="_blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEVHcEzqQzXuYyrFIh/GIRv8vQPuPzQyqFNChfTpSzDqQzXqQzXqQzVChfRChfRChfT5vQPqQzVChfT7vAT7vAT2OwM0qFM0qFP7vASTVZE0iv6wszHrQzUzqFNChfTFIh77vATCHxvqNTf8wwA4iPr/vQDLFwUeqFVedtZdq0mIXJ+dsTetPV3Ttx+fS93FAAAAHHRSTlMAcQddta+zsbYlaXrBuH233MnEcEe4eHNesLeohNumBwAAANtJREFUOI3N0dkSgjAMBdCAgqAi476FUrDF/f9/T0INIlR99T6F3jNkOgX4j4Q967G7CM3QT9PUQuZSSo+GXkrpt3tPUjbPH5TB8G1rfqiAV4MMcfjqHbQB9LkfYxNsCwZo1oQ0VUDrffm9O2UFA1rjIAMtz4MSBErcCgbo+8hA349JBYRQl4IBJz/o6zFhINSpC85lXwOh1PId+FQ3gBAwavYOJB1grod8XQsAmJp6TLMVmDUOfAa05vloHwC4LnwHdV4g/gWiX2DyDaxpnERxEMzaYEBZtU//NA+SXS8p5NKJkwAAAABJRU5ErkJggg==" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:somunanzenwa@gmail.com" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/10545579?s=40&v=4" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/somunachimso-nzenwa-a738a1192/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://somunaexe.github.io/" target="_blank"><img align="center" src="https://somunaexe.github.io/assets/flapjack.png" alt="portfolio" height="40" width="40" /></a>
 <a href="https://somunaexe.itch.io/" target="_blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="itch.io" height="40" width="40" /></a>
@@ -50,6 +50,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://github.com/postmanlabs.png?size=40" alt="postman" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/2232217?s=40&v=4" alt="aws" width="40" height="40"/>
 <!-- <img src="https://github.com/clerk.png?size=40" alt="clerk" width="40" height="40"/>
 <img src="https://github.com/neondatabase.png?size=40" alt="neon" width="40" height="40"/> -->
 
