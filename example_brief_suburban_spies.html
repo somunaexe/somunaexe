@@ -1,0 +1,109 @@
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+pre {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  line-height: 1.8;
+  color: var(--text-primary);
+  white-space: pre-wrap;
+  word-break: break-word;
+  padding: 1.5rem;
+  background: var(--surface-1);
+  border: 0.5px solid var(--border);
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+.k { color: var(--text-accent); }
+.s { color: var(--text-success); }
+.n { color: var(--text-muted); }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  background: var(--surface-1);
+  border: 0.5px solid var(--border);
+  border-radius: 12px 12px 0 0;
+  border-bottom: none;
+  margin-top: 1.5rem;
+}
+.header + pre { margin-top: 0; border-radius: 0 0 12px 12px; }
+.label { font-size: 12px; font-weight: 500; color: var(--text-secondary); font-family: var(--font-mono); }
+.copy-btn {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: var(--radius);
+  border: 0.5px solid var(--border-strong);
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-sans);
+}
+.copy-btn:hover { background: var(--surface-2); }
+.copy-btn.copied { color: var(--text-success); border-color: var(--border-success); }
+</style>
+
+<div class="header">
+  <span class="label">brief.json — suburban spies, scene 1</span>
+  <button class="copy-btn" id="copy-btn" onclick="copyIt()">
+    <i class="ti ti-copy" aria-hidden="true"></i> copy
+  </button>
+</div>
+<pre id="out"></pre>
+
+<script>
+const brief = {
+  core: {
+    logline: "Five teens crammed in a parked car at night, spying on suburban houses with binoculars — chaotic, funny, slightly transgressive.",
+    medium: "cinematic still / short video",
+    format: "16:9",
+    duration: "8–15 seconds per shot, or a single held wide if static"
+  },
+  intent: {
+    motive: "This is a teen comedy scene — the humour comes from how seriously they're taking something totally trivial. The visual should feel like a stakeout movie but immediately undercut by how cramped and chaotic the car is.",
+    mood: "The feeling of being 17 at midnight doing something you'll definitely regret but can't stop laughing about. Slightly illicit, mostly harmless.",
+    non_negotiables: "The car interior must feel genuinely cramped — five people, steamed windows, someone's elbow in someone's face. The suburban street outside must look ordinary and quiet, which is the whole joke. Dahkha's lines must read as subtitled."
+  },
+  visual: {
+    references: "The claustrophobic car interiors in Superbad — that specific bluish-green darkness of a car at night with faces barely lit. Also the suburban night aesthetic of Stranger Things season 1, but played for laughs not dread.",
+    subject: "Five teens: Jenny (performative, the ringleader, binoculars glued to her face), Don (unbothered, snacking), Dahkha (foreign — her dialogue appears in subtitles), Ganiyu (competitive, irritated), Uriel (smirking, watching Ganiyu). All roughly 16–18, mixed group, casual night-out clothes.",
+    scene: "Residential suburban street, UK or US ambiguous. Row of identical houses opposite. One house — the target — has its lights on, then cuts to black mid-scene. Car interior: cramped back seat, steamed windows, low ambient glow from streetlights bleeding in.",
+    color_palette: "Desaturated exterior — grey-blue suburban night. Interior warmer but muted, faces lit by faint orange streetlight through glass. Nothing vivid. No neon.",
+    lighting: "No practical light source inside the car — all spill from outside. Faces partially in shadow, catching light unevenly. The house across the street is the only bright point in the frame."
+  },
+  constraints: {
+    avoid: "No horror lighting — this is comedy, not thriller. No clean, well-lit faces. No American high school glossiness (no lockers, no letterman jackets, no wide smiles). Don't make the street feel dangerous or empty in a sinister way.",
+    open_to: "Exact car model, precise number of windows visible on the house, whether Dahkha's subtitles are styled or plain white, whether to show the binoculars POV as a cutaway."
+  },
+  context: {
+    intended_use: "Short film scene — could be a key frame for a director's treatment, or the actual generated shot used in the edit.",
+    audience: "Festival audience familiar with teen ensemble comedy. Tone should read immediately as comedy without dialogue.",
+    raw_notes: "There's something about British teens doing very American movie things that's intrinsic to the joke. The Caesar salad line, 'bae', 'Oh my days', 'bisky' — it's a very specific cultural mix. The visual shouldn't try to explain it, just hold the container for it. Think less Edgar Wright (too stylised) and more an iPhone-era home video that accidentally got a real DP."
+  }
+};
+
+function highlight(json) {
+  return json
+    .replace(/("[\w_]+")\s*:/g, '<span class="k">$1</span>:')
+    .replace(/:\s*("([^"]*)")/g, (m, full, inner) => `: <span class="s">"${inner}"</span>`)
+    .replace(/:\s*(null)/g, ': <span class="n">null</span>');
+}
+
+document.getElementById('out').innerHTML = highlight(JSON.stringify(brief, null, 2));
+
+function copyIt() {
+  navigator.clipboard.writeText(JSON.stringify(brief, null, 2)).then(() => {
+    const btn = document.getElementById('copy-btn');
+    btn.classList.add('copied');
+    btn.innerHTML = '<i class="ti ti-check" aria-hidden="true"></i> copied';
+    setTimeout(() => {
+      btn.classList.remove('copied');
+      btn.innerHTML = '<i class="ti ti-copy" aria-hidden="true"></i> copy';
+    }, 2000);
+  });
+}
+</script>
