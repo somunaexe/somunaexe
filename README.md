@@ -1,67 +1,142 @@
-<!-- <img src="https://appsgeyser.com/blog/wp-content/uploads/2023/11/ar-vr-future-blog-banner-scaled.jpg" alt="MasterHead" style="max-width: 100%,; display: inline-block;" > -->
-
 <h1 align="center">Hi 👋, I'm Somuna.</h1>
-<h3 align="center">A passionate Full Stack Developer.&#128205;</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cnet.com/a/img/resize/667049aaa29d420a7d74c70b1bc71520fa729902/hub/2021/10/21/1635a1a9-af9c-4380-b5a6-eec99f1a4c74/among-us-consoles-promo-xbox-playstation.png?auto=webp&fit=crop&height=675&width=1200">
+<h3 align="center">DevOps Engineer | AI/ML Specialist | Full-Stack Developer 📍 UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somunaexe&label=Profile%20views&color=0e75b6&style=flat" alt="somunaexe" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=somunaexe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🤝 I’m looking for a **software developer role**
-- 👯 Invite me to collaborate on projects
-- 🐱‍🚀 Currently building a Git Clone
+- 🎓 MSc Artificial Intelligence graduate (**Distinction**) and **AWS Certified Cloud Practitioner**
+- 💼 Currently a **Full Stack Developer at [Bulfighter](https://bulfighter.com)**
+- 🛠️ I build production-grade web apps like Bulwriter, machine learning pipelines and cloud infrastructure
+- 🤖 I built **Ezem**, the AI assistant on my [portfolio](https://somunaexe.github.io) that answers questions about my CV. It's open source: [3D-Portfolio](https://github.com/somunaexe/3D-Portfolio)
+- 🌍 Based in the UK, working across all timezones, and open to any type of work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:somunanzenwa@gmail.com" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/10545579?s=40&v=4" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/somunachimso-nzenwa-a738a1192/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://somunaexe.github.io/" target="_blank"><img align="center" src="https://somunaexe.github.io/assets/flapjack.png" alt="portfolio" height="40" width="40" /></a>
+<a href="https://somunaexe.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/flapjack.PNG" alt="portfolio" height="40" width="40" /></a>
 <a href="https://somunaexe.itch.io/" target="_blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="itch.io" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/spring-projects.png?size=40" alt="spring-boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://avatars.githubusercontent.com/u/67109815?s=40&v=4" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://github.com/mapeditor.png?size=40" alt="tiled" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/5406849?s=48&v=4" alt="pixijs" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongodb" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/9950313?s=280&v=4" alt="node.js" width="40" height="40"/>
-  <br />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/9141961?s=40&v=4" alt="asp.net" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/6154722?s=40&v=4" alt="sql-server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://github.com/postmanlabs.png?size=40" alt="postman" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/2232217?s=40&v=4" alt="aws" width="40" height="40"/>
-<!-- <img src="https://github.com/clerk.png?size=40" alt="clerk" width="40" height="40"/>
-<img src="https://github.com/neondatabase.png?size=40" alt="neon" width="40" height="40"/> -->
+<h3 align="left">Tech Stack</h3>
 
-  
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" alt="blender" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/647d10239d3662c68b5958ed5abcc47cc1bd215b0d019860eef1e61c4021eda3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62612f5374726970655f4c6f676f2532435f726576697365645f323031362e7376672f3130323470782d5374726970655f4c6f676f2532435f726576697365645f323031362e7376672e706e67" alt="stripe" width="105" height="40"/>
- </p>
+<h4>Languages</h4>
+<p>I write Python, JavaScript/TypeScript and Go the most, and have built projects in C#, Java, PHP, Kotlin, Swift and Dart.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/python.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/go.svg" alt="Go" title="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/csharp.svg" alt="C#" title="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/java.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/php.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/kotlin.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/swift.svg" alt="Swift" title="Swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/dart.svg" alt="Dart" title="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/html.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/css.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+</p>
 
+<h4>AI / Machine Learning</h4>
+<p>With an MSc in AI (Distinction), I build computer vision and NLP models, big-data pipelines, and RAG chatbots like Ezem.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/keras.svg" alt="Keras" title="Keras" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/scikitlearn.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/numpy.png" alt="NumPy" title="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/pandas.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/matplotlib.png" alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/opencv.svg" alt="OpenCV" title="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/yolo.svg" alt="YOLO" title="YOLO" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/roboflow.svg" alt="Roboflow" title="Roboflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/mlflow.svg" alt="MLflow" title="MLflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/databricks.svg" alt="Databricks" title="Databricks" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/apachespark.svg" alt="Apache Spark" title="Apache Spark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/jupyter.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/langchain.svg" alt="LangChain" title="LangChain" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/chromadb.svg" alt="ChromaDB" title="ChromaDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/openai.svg" alt="OpenAI" title="OpenAI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/ollama.svg" alt="Ollama" title="Ollama" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somunaexe&show_icons=true&locale=en&layout=compact" alt="somunaexe" /></p>
+<h4>Frontend</h4>
+<p>React is my main framework, with Angular, Redux and Three.js for rich, interactive and 3D interfaces.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/react.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/redux.png" alt="Redux" title="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/nextjs.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/vite.png" alt="Vite" title="Vite" width="40" height="40"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/three.png"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" title="Three.js" width="40" height="40"/></picture>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/sass.svg" alt="Sass" title="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/materialui.svg" alt="Material UI" title="Material UI" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/5406849?s=48&v=4" alt="Pixi.js" title="Pixi.js" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somunaexe&show_icons=true&locale=en" alt="somunaexe" /></p>
+<h4>Backend & APIs</h4>
+<p>I build Node.js, Go and Python services behind REST, GraphQL and WebSocket APIs, with Stripe payments and Clerk auth.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/node.png" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/express.png" alt="Express" title="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/fastapi.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/aspnet.png" alt="ASP.NET" title="ASP.NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/springboot.png" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/graphql.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/webrtc.svg" alt="WebRTC" title="WebRTC" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/stripe.png" alt="Stripe" title="Stripe" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/clerk.png" alt="Clerk" title="Clerk" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somunaexe&" alt="somunaexe" /></p>
+<h4>Mobile & Game Dev</h4>
+<p>I make cross-platform apps with Flutter and React Native, and games with Unity and C#.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/react.svg" alt="React Native" title="React Native" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/unity.svg" alt="Unity" title="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/lwjgl.png" alt="LWJGL" title="LWJGL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/blender.png" alt="Blender" title="Blender" width="40" height="40"/>
+  <img src="https://github.com/mapeditor.png?size=40" alt="Tiled" title="Tiled" width="40" height="40"/>
+</p>
+
+<h4>Cloud & DevOps</h4>
+<p>As an AWS Certified Cloud Practitioner, I containerise with Docker, provision with Terraform and ship with GitHub Actions.</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/aws-light.png"><img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/aws.png" alt="AWS" title="AWS" width="40" height="40"/></picture>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/azure.svg" alt="Azure" title="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/terraform.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/railway.svg" alt="Railway" title="Railway" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/linux.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/bash.png" alt="Bash" title="Bash" width="40" height="40"/>
+</p>
+
+<h4>Databases</h4>
+<p>I work with relational and NoSQL stores, and use Redis for caching, memory and rate limiting.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/sqlserver.png" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/firebase.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/redis.svg" alt="Redis" title="Redis" width="40" height="40"/>
+</p>
+
+<h4>Tools</h4>
+<p>Git and GitHub for everything, Postman for testing APIs and Figma for design.</p>
+<p>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/git.png" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/postman.png" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/somunaexe/3D-Portfolio/main/public/assets/figma.svg" alt="Figma" title="Figma" width="40" height="40"/>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somunaexe&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=somunaexe&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=somunaexe" alt="GitHub streak" /></p>
